@@ -1,21 +1,37 @@
 # Packages
 
-iron:router
+## Used
 
-nemo64:bootstrap
-mrt:accounts-ui-bootstrap-3
+* sanjo:jasmine
+* velocity:html-reporter
 
-accounts-password
+* iron:router
 
-cfs:standard-packages
-cfs:filesystem
-cfs:gridfs
-cfs:s3
-cfs:ui
+## Candidates
 
-underscore
-coffeescript
-less
+* nemo64:bootstrap
+* mrt:accounts-ui-bootstrap-3
+
+* accounts-password
+
+* cfs:standard-packages
+* cfs:filesystem
+* cfs:gridfs
+* cfs:s3
+* cfs:ui
+
+* underscore
+* coffeescript
+* less
+
+
+# Site Map
+
+Home
+Public
+Private (Must be logged in)
+Admin (Must be logged in and have Admin role)
+Login
 
 # Goals
 
