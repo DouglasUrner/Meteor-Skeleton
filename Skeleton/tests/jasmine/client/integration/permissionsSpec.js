@@ -1,6 +1,6 @@
-File: tests/jasmine/client/integration/premissionsSpec.js
+// File: tests/jasmine/client/integration/premissionsSpec.js
 
-"use strict";
+'use strict';
 
 describe('Permision Checks:', function () {
 
