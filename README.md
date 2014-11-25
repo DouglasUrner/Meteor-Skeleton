@@ -1,3 +1,7 @@
+# Goals
+
+To develop a skeleton for Meteor apps that are testable and changeable.
+
 # Packages
 
 ## Used
@@ -33,7 +37,7 @@ Private (Must be logged in)
 Admin (Must be logged in and have Admin role)
 Login
 
-# Goals
+# Plans
 
 Each of the pieces below could be a package. Think of this as a toolkit for building a LMS (or something like one).
 
